@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive - Sheffield Hallam University\Visual studio project\Demo class\bin\Debug\net6.0\Demo class.exe
+C:\Users\user\OneDrive - Sheffield Hallam University\Visual studio project\Demo class\bin\Debug\net6.0\Demo class.deps.json
+C:\Users\user\OneDrive - Sheffield Hallam University\Visual studio project\Demo class\bin\Debug\net6.0\Demo class.runtimeconfig.json
+C:\Users\user\OneDrive - Sheffield Hallam University\Visual studio project\Demo class\bin\Debug\net6.0\Demo class.dll
+C:\Users\user\OneDrive - Sheffield Hallam University\Visual studio project\Demo class\bin\Debug\net6.0\Demo class.pdb
+C:\Users\user\OneDrive - Sheffield Hallam University\Visual studio project\Demo class\obj\Debug\net6.0\Demo class.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Sheffield Hallam University\Visual studio project\Demo class\obj\Debug\net6.0\Demo class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Sheffield Hallam University\Visual studio project\Demo class\obj\Debug\net6.0\Demo class.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Sheffield Hallam University\Visual studio project\Demo class\obj\Debug\net6.0\Demo class.AssemblyInfo.cs
+C:\Users\user\OneDrive - Sheffield Hallam University\Visual studio project\Demo class\obj\Debug\net6.0\Demo class.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Sheffield Hallam University\Visual studio project\Demo class\obj\Debug\net6.0\Demo class.dll
+C:\Users\user\OneDrive - Sheffield Hallam University\Visual studio project\Demo class\obj\Debug\net6.0\refint\Demo class.dll
+C:\Users\user\OneDrive - Sheffield Hallam University\Visual studio project\Demo class\obj\Debug\net6.0\Demo class.pdb
+C:\Users\user\OneDrive - Sheffield Hallam University\Visual studio project\Demo class\obj\Debug\net6.0\Demo class.genruntimeconfig.cache
+C:\Users\user\OneDrive - Sheffield Hallam University\Visual studio project\Demo class\obj\Debug\net6.0\ref\Demo class.dll
